@@ -1,0 +1,12 @@
+qweather:
+  api_url: "https://api.qweather.com/v7/"
+  geo_url: "https://geoapi.qweather.com/v2/city/"
+  data_key:
+    # 天气灾害
+    warning: "warning"
+    # 格点实时天气
+    grid-weather: "now"
+    weather: "now"
+  language: "zh" # "en"
+  key: "d3c4cfcf40ff4e088f3d0da18019d855"
+  is_free: True
